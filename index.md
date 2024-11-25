@@ -1,5 +1,5 @@
 ---
-title: Developing Apps with Github
+Github Applications: Developing Apps with Github
 ---
 
 # **How to Use Github**
